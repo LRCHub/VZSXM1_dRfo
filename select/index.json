@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "Kata Mereka Ini Berlebihan",
+  "base_artist": "Bernadya",
+  "createdAt": "2026-03-24T10:17:58.680288Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Kata Mereka Ini Berlebihan",
+      "artist": "BernadyaVEVO",
+      "has_synced": true,
+      "path": "select/01_Kata_Mereka_Ini_Berlebihan_BernadyaVEVO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Kata Mereka Ini Berlebihan",
+      "artist": "Bernadya",
+      "has_synced": true,
+      "path": "select/02_Kata_Mereka_Ini_Berlebihan_Bernadya.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Kata Mereka Ini Berlebihan",
+      "artist": "Bernadya",
+      "has_synced": true,
+      "path": "select/03_Kata_Mereka_Ini_Berlebihan_Bernadya.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Kata Mereka Ini Berlebihan",
+      "artist": "Bernadya",
+      "has_synced": true,
+      "path": "select/04_Kata_Mereka_Ini_Berlebihan_Bernadya.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Kata Mereka Ini Berlebihan",
+      "artist": "Song, Bernadya",
+      "has_synced": true,
+      "path": "select/05_Kata_Mereka_Ini_Berlebihan_Song,_Bernadya.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Kata Mereka Ini Berlebihan",
+      "artist": "Greda Syana",
+      "has_synced": true,
+      "path": "select/06_Kata_Mereka_Ini_Berlebihan_Greda_Syana.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Kata Mereka Ini Berlebihan",
+      "artist": "Bernadya",
+      "has_synced": true,
+      "path": "select/07_Kata_Mereka_Ini_Berlebihan_Bernadya.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Kata Mereka Ini Berlebihan (Official Lyric Video)",
+      "artist": "Bernadya",
+      "has_synced": true,
+      "path": "select/08_Kata_Mereka_Ini_Berlebihan_(Official_Lyric_Video)_Bernadya.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Bernadya - Kata Mereka Ini Berlebihan (Official Video)",
+      "artist": "Bernadya",
+      "has_synced": true,
+      "path": "select/09_Bernadya_-_Kata_Mereka_Ini_Berlebihan_(Official_Video)_Bernadya.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Bernadya - Kata Mereka Ini Berlebihan (Official Video)",
+      "artist": "Indie Indonesia",
+      "has_synced": true,
+      "path": "select/10_Bernadya_-_Kata_Mereka_Ini_Berlebihan_(Official_Video)_Indie_Indonesia.lrc"
+    }
+  ]
+}
